@@ -13,6 +13,6 @@ Template repository for markdown summaries
 NOTE: normal lines wrap over normally, but code blocks can cause overflow (thereby obey to the ruler for code blocks)
 
 ## TOC
-The first two lines of the script control the optional **TOC**
+The first two lines of the markdown file control the optional **TOC**
 1. `<!--toc-->` <- generate a **TOC**
 2. `<!--toc-depth=x-->`, where `x` controls the **depth** to which headings are indexed
